@@ -1,4 +1,4 @@
-# Ejercicios-PHP-Teorema-de-Pit-gora
+# Ejercicios-PHP-Teorema-de-Pitagora
 
 Teorema de Pitágora
 Según el teorema de Pitágoras el cuadrado de la hipotenusa es igual a la suma del cuadrado de los catetos (C2 = A2 + B2
